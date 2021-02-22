@@ -117,6 +117,7 @@ public class TU001 {
     public void testTU001ParBateauPlacable() throws NoSuchMethodException, SecurityException, IllegalAccessException,
             IllegalArgumentException, InvocationTargetException {
 
+ 
 
     }
 }
